@@ -14,10 +14,6 @@ Masato Akagi
 
 This paper has been submitted for publication in Interspeech 2020
 
-![](manuscript/figures/hawaii-trend.png)
-
-*Caption for the example figure with the main results.*
-
 
 ## Abstract
 
