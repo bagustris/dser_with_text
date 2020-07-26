@@ -1,4 +1,4 @@
-# Using Text Feature to Improve Valence Prediction in Dimensional Speech Emotion Recognition
+# Improving Valence Prediction in Dimensional Speech Emotion Recognition using Linguistic Information
 
 by
 Bagus Tris Atmaja and 
