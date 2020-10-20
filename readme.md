@@ -12,8 +12,7 @@ Masato Akagi
 
 > Fill out the sections below with the information for your paper.
 
-This paper has been submitted for publication in Interspeech 2020
-
+This paper has been accepted for publication in OCOCOSDA 2020.
 
 ## Abstract
 
