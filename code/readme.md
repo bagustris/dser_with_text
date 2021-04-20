@@ -15,13 +15,14 @@ Database:
 
 Results (table/chart) for each database
 1. Result of single-dimension valence prediction
-2. Result multi-dimension speech emotion recognition --> chart:  
-V, A, D, Mean from   
-Acoustic  
-Text  
-Acoustic+Text  
+2. Result multi-dimension speech emotion recognition --> see chart in the paper:   
+
+| Modaliy    | V | A | D | Mean |    
+| -----------|---|---|---|------|  
+| Acoustic   |0.183|0.577|0.444 | 0.401 |   
+| Acoustic+Text  |0.421 | 0.590 | 0.471 | 0.498 |  
 
 3. Impact of using different pre-trained word vector (bert also?) --> Low.
 
 # We already observerd w2v and fasttext, 
-# but GloVe obtain better
+# but GloVe obtain better.
