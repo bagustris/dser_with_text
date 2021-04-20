@@ -24,5 +24,4 @@ Results (table/chart) for each database
 
 3. Impact of using different pre-trained word vector (bert also?) --> Low.
 
-# We already observerd w2v and fasttext, 
-# but GloVe obtain better.
+We already observerd w2v and fasttext, but GloVe obtain better.
